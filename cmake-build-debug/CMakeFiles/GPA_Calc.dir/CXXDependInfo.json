@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/eyadd/Documents/CPP/Projects/GPA-Calc/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/eyadd/Documents/CPP/Projects/GPA-Calc",
+	"dir-top-bld" : "C:/Users/eyadd/Documents/CPP/Projects/GPA-Calc/cmake-build-debug",
+	"dir-top-src" : "C:/Users/eyadd/Documents/CPP/Projects/GPA-Calc",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/eyadd/Documents/CPP/Projects/GPA-Calc/cmake-build-debug/CMakeFiles/GPA_Calc.dir"
+}
